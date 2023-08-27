@@ -36,3 +36,5 @@ class Discount{
         D2.display();
     }
 }
+
+// code inherits from jay-neo
